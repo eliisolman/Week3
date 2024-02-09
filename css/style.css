@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Signika&display=swap');
+body{
+    background-color: rgb(184, 213, 130);
+} 
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Kaushan Script', cursive;
+    
+}
+
+.main{
+    border: 3px solid grey; 
+    width: 55%; 
+    margin: 1rem auto;
+
+}
+
+.main div {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.footer {
+    color: cadetblue;
+    font-family: 'Signika', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
